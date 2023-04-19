@@ -19,11 +19,4 @@ Click on the image to see Video Demonstration.
 
 Video Link- https://youtu.be/krXgSGk3Zk8
 
-[<img src="https://lh3.googleusercontent.com/HmwKMG_NasaDLz2ML1qMdghMgtccdZBjKzd7vvEUvFK4woJBDYxTPdT_rUcQUtpHvX6zCH3OHj5HO2wkxzrpIhh3hcEy1vuahhga9CCL" width="50%">](https://youtu.be/krXgSGk3Zk8 "Now in Android: 55")
-
-
-<a class="tarp" href="https://youtu.be/krXgSGk3Zk8">
-<div class="lightboxContainer">
-<img src="https://lh3.googleusercontent.com/HmwKMG_NasaDLz2ML1qMdghMgtccdZBjKzd7vvEUvFK4woJBDYxTPdT_rUcQUtpHvX6zCH3OHj5HO2wkxzrpIhh3hcEy1vuahhga9CCL" alt="">
-</div>
-</a>
+[<img src="https://lh3.googleusercontent.com/HmwKMG_NasaDLz2ML1qMdghMgtccdZBjKzd7vvEUvFK4woJBDYxTPdT_rUcQUtpHvX6zCH3OHj5HO2wkxzrpIhh3hcEy1vuahhga9CCL" width="50%">](https://youtu.be/krXgSGk3Zk8")
