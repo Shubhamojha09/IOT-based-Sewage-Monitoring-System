@@ -24,7 +24,7 @@ The system also includes a dashboard that allows operators to monitor the status
 * Breadboard Power supply
 * Connecting wires
 * LED Lights
-* 12V 1 AMP DC Adopter
+* 12V 1 AMP DC Adapter
 
 ## Installation:
 The system can be installed in any existing sewage management system. The sensors are installed at various points in the network, such as at pumping stations and treatment plants. The data is sent to a cloud-based server, which can be accessed via a web-based dashboard.
