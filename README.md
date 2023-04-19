@@ -13,7 +13,10 @@ Connecting wires,
 LED,
 12V, 1 AMP DC Adopter.
 
-Video Demonstration and Document is also provided.
+Click on the image to see Video Demonstration.
 
+(Or)
+
+Video Link- https://youtu.be/krXgSGk3Zk8
 
 [<img src="https://lh3.googleusercontent.com/HmwKMG_NasaDLz2ML1qMdghMgtccdZBjKzd7vvEUvFK4woJBDYxTPdT_rUcQUtpHvX6zCH3OHj5HO2wkxzrpIhh3hcEy1vuahhga9CCL" width="50%">](https://youtu.be/krXgSGk3Zk8 "Now in Android: 55")
