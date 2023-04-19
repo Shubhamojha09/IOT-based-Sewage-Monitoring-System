@@ -16,4 +16,4 @@ LED,
 Video Demonstration and Document is also provided.
 
 
-[<img src="https://ibb.co/S59Sqnf" width="50%">](https://youtu.be/krXgSGk3Zk8 "Now in Android: 55")
+[<img src="https://lh3.googleusercontent.com/HmwKMG_NasaDLz2ML1qMdghMgtccdZBjKzd7vvEUvFK4woJBDYxTPdT_rUcQUtpHvX6zCH3OHj5HO2wkxzrpIhh3hcEy1vuahhga9CCL" width="50%">](https://youtu.be/krXgSGk3Zk8 "Now in Android: 55")
