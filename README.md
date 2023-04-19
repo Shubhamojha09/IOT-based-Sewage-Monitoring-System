@@ -37,7 +37,7 @@ This system has a wide range of potential applications, including:
 * Integrating with other systems, such as weather monitoring systems, to provide a more comprehensive view of the network
 
 ## Conclusion:
-The Sewage Management System with IoT Sensors is a powerful tool for improving the efficiency and effectiveness of sewage management systems. By leveraging IoT sensors and machine learning algorithms, operators can optimize the functioning of the sewage system, reduce operating costs, and ensure compliance with environmental regulations. This system has the potential to greatly improve public health and environmental protection.
+The Sewage Management System with IoT Sensors is a powerful tool for improving the efficiency and effectiveness of sewage management systems. By leveraging IoT sensors  operators can optimize the functioning of the sewage system, reduce operating costs, and ensure compliance with environmental regulations. This system has the potential to greatly improve public health and environmental protection.
 
 
 
